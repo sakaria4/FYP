@@ -1,0 +1,6 @@
+"0","```r
+ggplot(filter(tidycars, make %in% c(\"Merc\",\"Toyota\")), 
+       aes(x = value, fill = make)) + 
+  geom_histogram() + 
+  facet_wrap(~feature, scales = \"free_x\")
+```"

@@ -1,0 +1,15 @@
+"0","```r
+head(iris)
+
+# gather: 
+# 1) variable (name of the column names), 
+# 2) value (thing in the columns), 
+# 3) range of columns
+
+tidyiris <- iris %>%
+  mutate(observation = 1:n()) %>%
+  gather(measurement, size_in_cm, Sepal.Length, Sepal.Width, Petal.Length, Petal.Width)
+
+iris
+tidyiris
+```"

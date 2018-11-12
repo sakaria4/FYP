@@ -1,0 +1,5 @@
+"0","```r
+d_sklar <- read_csv(\"http://langcog.stanford.edu/sklar_expt6a_corrected.csv\")
+
+head(d_sklar)
+```"

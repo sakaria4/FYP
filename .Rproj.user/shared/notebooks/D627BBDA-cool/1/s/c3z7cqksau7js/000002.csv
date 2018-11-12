@@ -1,0 +1,8 @@
+"0","```r
+tidycars <- mtcars %>%
+  mutate(car = rownames(mtcars)) %>%
+  gather(feature, value, mpg:carb) %>%
+  separate(car, into = c(\"make\",\"model\"))
+
+head(tidycars)
+```"

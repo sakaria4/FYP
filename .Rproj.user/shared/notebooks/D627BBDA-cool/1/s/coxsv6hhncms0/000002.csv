@@ -1,0 +1,4 @@
+"0","```r
+d_sklar %>%
+  gather(participant, rt, matches(\"[0-9]+\"))
+```"

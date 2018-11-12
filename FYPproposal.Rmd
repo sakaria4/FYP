@@ -1,0 +1,87 @@
+---
+title: "Interracial Dating FYP"
+author: "Sakaria Auelua-Toomey"
+date: "November 11, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+# Introduction
+> People strive to promote or protect the prestige
+and status of their own group relative to other groups because
+group evaluation is self-evaluation. People do this because one of
+the most basic human motives is for self-enhancement and selfesteem
+(Sedikides & Strube, 1997), and in salient group contexts,
+the self in self-enhancement and self-esteem is the collective self,
+social identity (Abrams & Hogg, 1988; Rubin & Hewstone, 1998). [2]
+
+### Interracial marriages by the numbers
+According to data from the U.S Census Bureau's Aerican Community Survey (ACS) in 2008-2010, interracial marraiges, 15% of new marriages in the US were interracial. More than double the reported marriages from 1980 ACS data [1]. Of these marriages 9% of whites, 17% of blacks, 26% of Hispanics and 28% of Asians married out. The most common interracial marraige occured between Hispanic and white individuals at 42% followed by Asian and white individuals at 15%, multiracial and white at 12% and white and black at 11%. But these marraiges varied widely within gender patterns [1].
+
+####Intermarriage and gender patterns
+Compared to 9% of black female newlyweds, 24% of black male newlyweds married outside their race. This pattern was inverse for Asians. Among Asians, 36% of female Asian newlyweds married outside their race compared to 17% of male Asian newlyweds [1]. Although Hispanic and white interracial marriages are most common, there was no difference in marraige rates between genders. 
+
+####Intermarriage and earnings. (Copied)
+Some of these differences appear to reflect the overall characteristics of different groups in society at large, and some may be a result of a selection process. For example, white/Asian newlyweds of 2008 through 2010 have significantly higher median combined annual earnings (70,952) than do any other pairing, including both white/white (60,000) and Asian/Asian ($62,000). When it comes to educational characteristics, more than half of white newlyweds who marry Asians have a college degree, compared with roughly a third of white newlyweds who married whites. Among Hispanics and blacks, newlyweds who married whites tend to have higher educational attainment than do those who married within their own racial or ethnic group.
+
+![Earnings of interracial marriages between race and gender](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-14.png)
+
+Couples formed between an Asian husband and a white wife topped the median earning list among all newlyweds in 2008-2010 ($71,800). During this period, white male newlyweds who married Asian, Hispanic or black spouses had higher combined earnings than did white male newlyweds who married a white spouse. As for white female newlyweds, those who married a Hispanic or black husband had somewhat lower combined earnings than those who “married in,” while those who married an Asian husband had significantly higher combined earnings.
+
+Some noticeable gender patterns: In addition to Asian men, all intermarried white male newlyweds, as well as black and Hispanic newlyweds who married a white woman, have higher combined earnings with their spouses than their counterparts who married in. Combined median earnings for Hispanic grooms with a white wife are 53,000, but only about 35,600 for Hispanic grooms who married a Hispanic wife. Similarly, combined couple earnings for black grooms who married a white wife (around 52,700) are higher than blacks who married in ($47,700). The earning difference is less significant for white grooms, but those who married a Hispanic or black wife still have slightly higher combined earnings with their wife than their counterparts who married a white wife.
+
+It is a somewhat different story for brides: Asian brides who married a white husband have higher combined earnings than their counterparts who married an Asian husband. Hispanic and black brides who married a white husband also have significantly higher combined earnings with their husbands (around $61,ooo) than their counterparts who married within their own racial or ethnic group (less than 48,000). White brides who married Hispanic or black husbands, on the other hand, have slightly lower combined earnings than their counterparts who married a white husband. However, combined earnings for white brides with an Asian husband are much higher than for white brides who married in.
+
+![Education of interracial marraiges between race and gender](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-15.png)
+
+Why are these gender patterns found in White/Asian and White/Black marraiges, but not found in White/Hispanic marriages?
+
+
+## Past research
+#### Lower status within-ingroup
+>  However,having a valued social identity and belonging to a prestigious highstatus group has, in salient intergroup comparison situations, a more generally positive effect on self-esteem [2]
+
+Cite research showing effects of low belongingness of an ingroup
+
+#### Self-enhancement strategies 
+
+> Although possession of a devalued or stigmatized social identity
+can depress self-esteem, people have an enormous capacity to
+buffer themselves from this consequence (e.g., Crocker, Major &
+Steele, 1998). [2]
+
+Cite research showing stratgies for increasing status
+-both within ingroup and through group movement
+
+#Proposed Method
+
+
+# Discussion
+Research can can bring understanding on when individuals de-identify(lower salience) with an ingroup and begin identifying with an outgroup. 
+
+Research can explain how group membership influences intergroup interactions through perceived group norms.
+
+Research can explain motivations to deviate from group norms. 
+
+
+### Citations
+
+[1] http://www.pewsocialtrends.org/2012/02/16/the-rise-of-intermarriage/
+[2] https://journals.sagepub.com/doi/pdf/10.1177/1046496404263424?casa_token=hCrfng3JK20AAAAA%3AeHwWenJv9c7tcmVi-4PMegf79Q_6gdMwFuY_O6D3XRr7bSWzHFb9bRTE8tU2547zePpZeb38jwrW
+
+### Images
+
+![Differences bettwen interacial and intraracial marraiges](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-09.png)
+
+![Interracial Marriages by region](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-13.png)
+
+![Likely to be in their first-time marriage](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-16.png)
+
+![Age difference of newlyweds](http://www.pewsocialtrends.org/wp-content/uploads/sites/3/2012/02/sdt-2012-rise-of-intermarriage-17.png)
+
+
